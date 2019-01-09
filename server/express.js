@@ -81,8 +81,8 @@ function getSum(periods) {
 	return finalFreeTime;
 }
 
-db.freeTime.insert(requiredTime, (err, man) => {
-	console.log(man)
+// db.freeTime.insert(requiredTime, (err, man) => {
+// 	console.log(man)
 })
 // export db;
 function getAllPeriods() {
