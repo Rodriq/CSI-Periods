@@ -9,6 +9,10 @@ npm install
 ```
 npm run serve
 ```
+### Start Express server
+```
+node express.js
+```
 
 ### Compiles and minifies for production
 ```
